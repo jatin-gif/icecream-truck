@@ -1,0 +1,22 @@
+.truck{
+  background: #E0E5BC;
+}
+.cake1{
+
+   color: green;
+  
+   text-align: center;
+}
+.ice{
+  color: blue;
+  text-align: center;
+}
+.shop{
+  text-align: center;
+  border: 3px double red;
+  width: 70%;
+  margin: 10px auto;
+  padding-bottom: 10px;
+  text-decoration: underline;
+  
+}
